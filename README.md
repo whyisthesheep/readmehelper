@@ -1,5 +1,6 @@
 # README.md
 ### README helper
-## Installation
-`
-pip install time`
+## Requirements:
+[Python](https://python.org/)
+## Contributing
+Before contributing to the project, please be open to feedback and check the licence.
