@@ -2,4 +2,4 @@
 ### README helper
 ## Installation
 `
-pip install sleep`
+pip install time`
