@@ -1,5 +1,7 @@
 from time import sleep as s
 
+# by github/whyisthesheep
+## uninterestingusername#0496
 titleb = """
     ____                 __                               __
    / __ \___  ____ _____/ /___ ___  ___    ____ ___  ____/ /
